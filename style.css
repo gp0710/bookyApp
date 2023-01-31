@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Cantarell:wght@400;700&display=swap');
+
+body {
+    font-family: 'Cantarell', sans-serif;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    height: auto;
+}
+
+#stats {
+    display: flex;
+    flex-direction: column;
+}
